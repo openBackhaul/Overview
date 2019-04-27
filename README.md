@@ -3,7 +3,7 @@ This github is for making technology specific extensions to the ONF Core Informa
 
 ### Interfaces
 - [airInterface](../../../airInterface) : physical layer of the microwave radio interface
-- [hybridMwStructure](../../../hybridMwStructure) : logical structuring of a microwave radio interface into multiple TDM and a single Ethernet segment
+- [hybridMwStructure](../../../hybridMwStructure) : structuring of a microwave radio interface into multiple TDM and a single Ethernet segment
 - [ipInterface](../../../ipInterface) : IPv4 interface according to IETF RFC 791
 
 

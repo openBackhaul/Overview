@@ -14,6 +14,6 @@ The following types of extensions are distinguished:
 - [pureEthernetStructure](../../../pureEthernetStructure) : Structuring of a microwave radio interface into a single Ethernet segment
 - [tdmContainer](../../../tdmContainer) : Transport resource for TDM
 - [vlanInterface](../../../vlanInterface) : VLAN interfaces according to IEEE 802.1Q and 802.1ad
-- [wireInterface](../../../wireInterface) : Ethernet PHY interfaces according to IEEE 802.3
+- [wireInterface](../../../wireInterface) : Physical layer of an Ethernet PHY interface according to IEEE 802.3
 
 

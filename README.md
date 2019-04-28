@@ -6,7 +6,7 @@ The following types of extensions are distinguished:
 - Profiles : Similar to management of functionalities valied for entire devices (attached to Profile class)
 
 ### Interfaces
-- [airInterface](../../../airInterface) : physical layer of the microwave radio interface
+- [airInterface](../../../airInterface) : Physical layer of the microwave radio interface
 - [ethernetContainer](../../../ethernetContainer) : Transport resource for Ethernet
 - [hybridMwStructure](../../../hybridMwStructure) : Structuring of a microwave radio interface into multiple TDM and a single Ethernet segment
 - [ipInterface](../../../ipInterface) : IPv4 interface according to IETF RFC 791

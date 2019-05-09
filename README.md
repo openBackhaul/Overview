@@ -3,7 +3,7 @@ This github is for making technology specific extensions to the ONF Core Informa
 
 The following types of extensions are distinguished:
 - Interfaces : Similar to management of network layers at the ports of devices (attached to LayerProtocol class)
-- Profiles : Similar to management of functionalities valied for entire devices (attached to Profile class)
+- Profiles : Similar to management of functionalities valid for entire devices (attached to Profile class)
 
 ### Interfaces
 - [airInterface](../../../airInterface) : Physical layer of the microwave radio interface

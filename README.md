@@ -16,4 +16,5 @@ The following types of extensions are distinguished:
 - [vlanInterface](../../../vlanInterface) : VLAN interfaces according to IEEE 802.1Q and 802.1ad
 - [wireInterface](../../../wireInterface) : Physical layer of an Ethernet PHY interface according to IEEE 802.3
 
-
+### Profiles
+- [wredProfile](../../../wredProfile) : WRED (Weighted Random Early Detection)

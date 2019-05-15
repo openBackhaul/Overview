@@ -17,4 +17,5 @@ The following types of extensions are distinguished:
 - [wireInterface](../../../wireInterface) : Physical layer of an Ethernet PHY interface according to IEEE 802.3
 
 ### Profiles
+- [l3vpnProfile](../../../wredProfile) : Layer 3 Virtual Private Networks
 - [wredProfile](../../../wredProfile) : WRED (Weighted Random Early Detection)

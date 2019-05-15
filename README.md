@@ -18,4 +18,5 @@ The following types of extensions are distinguished:
 
 ### Profiles
 - [l3vpnProfile](../../../wredProfile) : Layer 3 Virtual Private Networks
+- [qosProfile](../../../qosProfile) : Quality of Service based on 802.1p, MPLS Exp and IP DSCP
 - [wredProfile](../../../wredProfile) : WRED (Weighted Random Early Detection)

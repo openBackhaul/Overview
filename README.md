@@ -23,3 +23,6 @@ The following types of extensions are distinguished:
 
 ### Equipment
 - [wireEquipment](../../../wireEquipment) : Equipment for an Ethernet PHY interface according to IEEE 802.3
+
+### Core
+- [core](../../../core) : Core Information Model that consolidates all Interfaces, Profiles and Equipments

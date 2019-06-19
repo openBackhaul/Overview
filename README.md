@@ -20,3 +20,6 @@ The following types of extensions are distinguished:
 - [l3vpnProfile](../../../l3vpnProfile) : Layer 3 Virtual Private Networks
 - [qosProfile](../../../qosProfile) : Quality of Service based on 802.1p, MPLS Exp and IP DSCP
 - [wredProfile](../../../wredProfile) : WRED (Weighted Random Early Detection)
+
+### Equipment
+- [wireEquipment](../../../wireEquipment) : Equipment for an Ethernet PHY interface according to IEEE 802.3

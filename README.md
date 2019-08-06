@@ -18,8 +18,9 @@ The following types of extensions are distinguished:
 - [wireInterface](../../../wireInterface) : Physical layer of an Ethernet PHY interface according to IEEE 802.3
 
 ### Profiles
-- [coChannelProfile](../../../coChannelProfile) : Groups of microwave radio interfaces, which are using the same frequency channel
+- [aclProfile](../../../aclProfile) : Access Control Lists
 - [l3vpnProfile](../../../l3vpnProfile) : Layer 3 Virtual Private Networks
+- [policingProfile](../../../policingProfile) : Traffic Policing
 - [qosProfile](../../../qosProfile) : Quality of Service based on 802.1p, MPLS Exp and IP DSCP
 - [wredProfile](../../../wredProfile) : WRED (Weighted Random Early Detection)
 

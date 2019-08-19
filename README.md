@@ -33,9 +33,9 @@ The following types of extensions are distinguished:
 - [tdmContainer](../../../tdmContainer) : Transport resource for TDM
 
 ### VLAN
-- [vlanInterface](../../../vlanInterface) : VLAN interfaces according to IEEE 802.1Q
-- [vlanFd](../../../vlanFd) : Potential forwarding according to IEEE 802.1Q
-- [vlanFc](../../../vlanFc) : Actual forwarding according to IEEE 802.1Q
+- [vlanInterface](../../../vlanInterface) : VLAN interfaces (Port) according to IEEE 802.1Q
+- [vlanFd](../../../vlanFd) : Potential forwarding (Component) according to IEEE 802.1Q
+- [vlanFc](../../../vlanFc) : Actual forwarding (VLAN) according to IEEE 802.1Q
 
 
 ### Wire

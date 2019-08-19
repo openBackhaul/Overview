@@ -34,13 +34,14 @@ The following types of extensions are distinguished:
 
 ### VLAN
 - [vlanInterface](../../../vlanInterface) : VLAN interfaces according to IEEE 802.1Q
-- [vlanFc](../../../vlanFc) : Actual forwarding according to IEEE 802.1Q
 - [vlanFd](../../../vlanFd) : Potential forwarding according to IEEE 802.1Q
+- [vlanFc](../../../vlanFc) : Actual forwarding according to IEEE 802.1Q
+
 
 ### Wire
 - [wireInterface](../../../wireInterface) : Physical layer of an Ethernet PHY interface according to IEEE 802.3
-- [wireFc](../../../wireFc) : Actual forwarding on the physical layer of Ethernet according to IEEE 802.3
 - [wireLink](../../../wireLink) : Potential forwarding on the physical layer of Ethernet according to IEEE 802.3
+- [wireFc](../../../wireFc) : Actual forwarding on the physical layer of Ethernet according to IEEE 802.3
 - [wireEquipment](../../../wireEquipment) : Equipment for an Ethernet PHY interface according to IEEE 802.3
 
 ## Profiles

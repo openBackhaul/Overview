@@ -47,6 +47,7 @@ The following types of extensions are distinguished:
 ## Profiles
 - [aclProfile](../../../aclProfile) : Access Control Lists
 - [coChannelProfile](../../../coChannelProfile) : Groups of microwave radio interfaces, which are using the same frequency channel
+- [headerCompressionProfile](../../../headerCompressionProfile) : Packet Header Compression on Microwave Links
 - [l3vpnProfile](../../../l3vpnProfile) : Layer 3 Virtual Private Networks
 - [policingProfile](../../../policingProfile) : Traffic Policing
 - [qosProfile](../../../qosProfile) : Quality of Service based on 802.1p, MPLS Exp and IP DSCP

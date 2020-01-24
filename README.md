@@ -45,7 +45,6 @@ The following types of extensions are distinguished:
 - [wireEquipment](../../../wireEquipment) : Equipment for an Ethernet PHY interface according to IEEE 802.3
 
 ## Profiles
-- [aclProfile](../../../aclProfile) : Access Control Lists
 - [coChannelProfile](../../../coChannelProfile) : Groups of microwave radio interfaces, which are using the same frequency channel
 - [l3vpnProfile](../../../l3vpnProfile) : Layer 3 Virtual Private Networks
 - [policingProfile](../../../policingProfile) : Traffic Policing

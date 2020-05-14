@@ -50,4 +50,4 @@ The following types of extensions are distinguished:
 
 ## Core
 - [core](../../../core) : Core Information Model that consolidates all Interfaces, Profiles and Equipments
-- [Equipment](../../../equipment) : Device Inventory, Device type specific Information and Interface Behavior
+- [equipment](../../../equipment) : Device Inventory, Device type specific Information and Interface Behavior

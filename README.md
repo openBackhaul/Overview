@@ -37,12 +37,10 @@ The following types of extensions are distinguished:
 - [vlanFd](../../../vlanFd) : Potential forwarding (Component) according to IEEE 802.1Q
 - [vlanFc](../../../vlanFc) : Actual forwarding (VLAN) according to IEEE 802.1Q
 
-
 ### Wire
 - [wireInterface](../../../wireInterface) : Physical layer of an Ethernet PHY interface according to IEEE 802.3
 - [wireLink](../../../wireLink) : Potential forwarding on the physical layer of Ethernet according to IEEE 802.3
 - [wireFc](../../../wireFc) : Actual forwarding on the physical layer of Ethernet according to IEEE 802.3
-- [wireEquipment](../../../wireEquipment) : Equipment for an Ethernet PHY interface according to IEEE 802.3
 
 ## Profiles
 - [coChannelProfile](../../../coChannelProfile) : Groups of microwave radio interfaces, which are using the same frequency channel
@@ -52,3 +50,4 @@ The following types of extensions are distinguished:
 
 ## Core
 - [core](../../../core) : Core Information Model that consolidates all Interfaces, Profiles and Equipments
+- [Equipment](../../../equipment) : Device Inventory, Device type specific Information and Interface Behavior

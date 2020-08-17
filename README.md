@@ -51,4 +51,5 @@ The following types of extensions are distinguished:
 
 ## Core
 - [core](../../../core) : Core Information Model that consolidates all Interfaces, Profiles and Equipments
+- [ltpAugment](../../../ltpAugment) : Technology agnostic amendment to the LogicalTerminationPoint class
 - [equipment](../../../equipment) : Device Inventory, Device type specific Information and Interface Behavior

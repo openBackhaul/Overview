@@ -15,7 +15,9 @@ The following types of extensions are distinguished:
 
 ### EthernetContainer
 - [ethernetContainer](../../../ethernetContainer) : Transport resource for Ethernet
-- [ethernetContainerFd](../../../ethernetContainerFd) : Layer 1 switch in the device
+- [ethernetContainerFd](../../../ethernetContainerFd) : Potential for Layer 1 forwarding (Layer 1 switch) inside the device
+- [ethernetContainerLink](../../../ethernetContainerLink) : Potential for Layer 1 forwarding outside the device
+- [ethernetContainerFc](../../../ethernetContainerFc) : Actual Layer 1 connection
 
 ### HybridMwStructure
 - [hybridMwStructure](../../../hybridMwStructure) : Structuring of a microwave radio interface into multiple TDM and a single Ethernet segment

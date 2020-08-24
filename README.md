@@ -38,6 +38,7 @@ The following types of extensions are distinguished:
 ### VLAN
 - [vlanInterface](../../../vlanInterface) : VLAN interfaces (Port) according to IEEE 802.1Q
 - [vlanFd](../../../vlanFd) : Potential forwarding (Component) according to IEEE 802.1Q
+- [vlanLink](../../../vlanLink) : Potential forwarding between devices according to IEEE 802.1Q
 - [vlanFc](../../../vlanFc) : Actual forwarding (VLAN) according to IEEE 802.1Q
 
 ### Wire

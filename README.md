@@ -27,7 +27,8 @@ The following types of extensions are distinguished:
 
 ### MAC
 - [macInterface](../../../macInterface) : Ethernet MAC interface according to IEEE 802.1
-- [macFd](../../../macFd) : Potential forwarding according to IEEE 802.1
+- [macFd](../../../macFd) : Potential forwarding (MAC switch) according to IEEE 802.1
+- [macFc](../../../macFc) : Actual forwarding (entry into forwarding table) according to IEEE 802.1
 
 ### PureEthernetStructure
 - [pureEthernetStructure](../../../pureEthernetStructure) : Structuring of a microwave radio interface into a single Ethernet segment

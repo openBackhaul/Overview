@@ -60,5 +60,5 @@ The following types of extensions are distinguished:
 - [equipment](../../../equipment) : Device Inventory, Device type specific Information and Interface Behavior
 
 ## Controller
-- [O1-Controller](../../o1controller) : OpenDaylight based SDN Controller, which is used in the ONAP project
-- [SDN-R](../../o1controller) : OpenDaylight based SDN Controller, which is used in the ONAP project
+- [O1-Controller](../../../o1controller) : OpenDaylight based SDN Controller, which is used in the ONAP project
+- [SDN-R](../../../o1controller) : OpenDaylight based SDN Controller, which is used in the ONAP project

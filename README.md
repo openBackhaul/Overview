@@ -29,6 +29,10 @@ The following types of extensions are distinguished:
 - [macInterface](../../../macInterface) : Ethernet MAC interface according to IEEE 802.1
 - [macFd](../../../macFd) : Potential forwarding (MAC switch) according to IEEE 802.1
 
+### Operation
+- [operationClientInterface](../../../operationClientInterface) : Client to an operation on a REST interface
+- [operationServerInterface](../../../operationServerInterface) : Server of an operation on a REST interface
+
 ### PureEthernetStructure
 - [pureEthernetStructure](../../../pureEthernetStructure) : Structuring of a microwave radio interface into a single Ethernet segment
 

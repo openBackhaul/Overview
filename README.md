@@ -32,6 +32,10 @@ The following types of extensions are distinguished:
 ### PureEthernetStructure
 - [pureEthernetStructure](../../../pureEthernetStructure) : Structuring of a microwave radio interface into a single Ethernet segment
 
+### TCP
+- [tcpClientInterface](../../../tcpClientInterface) : TCP Client based on draft-ietf-netconf-tcp-client-server
+- [tcpServerInterface](../../../tcpServerInterface) : TCP Server based on draft-ietf-netconf-tcp-client-server
+
 ### TdmContainer
 - [tdmContainer](../../../tdmContainer) : Transport resource for TDM
 - [tdmContainerFd](../../../tdmContainerFd) : Potential TDM forwarding (PDH or SDH matrix)

@@ -36,6 +36,9 @@ The following types of extensions are distinguished:
 ### PureEthernetStructure
 - [pureEthernetStructure](../../../pureEthernetStructure) : Structuring of a microwave radio interface into a single Ethernet segment
 
+### Synchronization
+- [synchronization](../../../synchronization) : Synchronization model according to ITU-T G.7721-2018
+
 ### TCP
 - [tcpClientInterface](../../../tcpClientInterface) : TCP Client based on draft-ietf-netconf-tcp-client-server
 - [tcpServerInterface](../../../tcpServerInterface) : TCP Server based on draft-ietf-netconf-tcp-client-server

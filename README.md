@@ -29,19 +29,11 @@ The following types of extensions are distinguished:
 - [macInterface](../../../macInterface) : Ethernet MAC interface according to IEEE 802.1
 - [macFd](../../../macFd) : Potential forwarding (MAC switch) according to IEEE 802.1
 
-### Operation
-- [operationClientInterface](../../../operationClientInterface) : Client to an operation on a REST interface
-- [operationServerInterface](../../../operationServerInterface) : Server of an operation on a REST interface
-
 ### PureEthernetStructure
 - [pureEthernetStructure](../../../pureEthernetStructure) : Structuring of a microwave radio interface into a single Ethernet segment
 
 ### Synchronization
 - [synchronization](../../../synchronization) : Synchronization model according to ITU-T G.7721-2018
-
-### TCP
-- [tcpClientInterface](../../../tcpClientInterface) : TCP Client based on draft-ietf-netconf-tcp-client-server
-- [tcpServerInterface](../../../tcpServerInterface) : TCP Server based on draft-ietf-netconf-tcp-client-server
 
 ### TdmContainer
 - [tdmContainer](../../../tdmContainer) : Transport resource for TDM

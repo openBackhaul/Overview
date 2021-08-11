@@ -69,9 +69,13 @@ The following types of extensions are distinguished:
 
 ## Applications
 - [ApplicationPattern](../../../ApplicationPattern) : Basic functions of REST applications
+
+**Tiny Application Controller**
 - [RegistryOffice](../../../RegistryOffice) : List of registered applications
 - [TypeApprovalRegister](../../../TypeApprovalRegister) : List of approved applications
 - [ExecutionAndTraceLog](../../../ExecutionAndTraceLog) : List of records about service requests
 - [OamLog](../../../OamLog) : List of records about OAM activities
+
+**Data Sanitation and Caching**
 - [MediatorInstanceManager](../../../MediatorInstanceManager) : Mediator management
 - [CurrentController](../../../CurrentController) : IP address and port of the SDN Controller

@@ -66,3 +66,12 @@ The following types of extensions are distinguished:
 ## Controller
 - [O1-Controller](../../../o1controller) : OpenDaylight based SDN Controller, which is used in the ONAP project
 - [SDN-R](../../../o1controller) : OpenDaylight based SDN Controller, which is used in the ONAP project
+
+## Applications
+- [ApplicationPattern](../../../ApplicationPattern) : Basic functions of REST applications
+- [RegistryOffice](../../../RegistryOffice) : List of registered applications
+- [TypeApprovalRegister](../../../TypeApprovalRegister) : List of approved applications
+- [ExecutionAndTraceLog](../../../ExecutionAndTraceLog) : List of records of service requests
+- [OamLog](../../../OamLog) : List of records of OAM activities
+- [MediatorInstanceManager](../../../MediatorInstanceManager) : Mediator management
+- [CurrentController](../../../CurrentController) : IP address and port of the SDN Controller

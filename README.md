@@ -75,6 +75,9 @@ The following types of extensions are distinguished:
 - [TypeApprovalRegister](../../../TypeApprovalRegister) : List of approved applications
 - [ExecutionAndTraceLog](../../../ExecutionAndTraceLog) : List of records about service requests
 - [OamLog](../../../OamLog) : List of records about OAM activities
+- [AdministratorAdministration](../../../AdministratorAdministration) : Authenticates OAM of applications
+- [ApplicationLayerTopology](../../../ApplicationLayerTopology) : Application network repository
+- [OperationKeyManagement](../../../OperationKeyManagement) : Management of API keys
 
 **Data Sanitation and Caching**
 - [MediatorInstanceManager](../../../MediatorInstanceManager) : Mediator management

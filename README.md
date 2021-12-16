@@ -71,6 +71,7 @@ The following types of extensions are distinguished:
 - [ApplicationPattern](../../../ApplicationPattern) : Basic functions of REST applications
 
 **Tiny Application Controller**
+(These repositories are private. If you would like to access, please contact Thorsten Heinze.)
 - [RegistryOffice](../../../RegistryOffice) : List of registered applications
 - [TypeApprovalRegister](../../../TypeApprovalRegister) : List of approved applications
 - [ExecutionAndTraceLog](../../../ExecutionAndTraceLog) : List of records about service requests

@@ -62,6 +62,7 @@ The following types of extensions are distinguished:
 - [ltpAugment](../../../ltpAugment) : Technology agnostic amendment to the LogicalTerminationPoint class
 - [firmware](../../../firmware) : Information model and RPCs for managing firmware on the device
 - [equipment](../../../equipment) : Device Inventory, Device type specific Information and Interface Behavior
+- [alarms](../../../alarms) : Centralized representation of alarms
 
 ## Controller
 - [O1-Controller](../../../o1controller) : OpenDaylight based SDN Controller, which is used in the ONAP project

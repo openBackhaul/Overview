@@ -83,4 +83,3 @@ The following types of extensions are distinguished:
 
 **Data Sanitation and Caching**
 - [MediatorInstanceManager](../../../MediatorInstanceManager) : Mediator management
-- [CurrentController](../../../CurrentController) : IP address and port of the SDN Controller

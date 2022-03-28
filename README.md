@@ -32,8 +32,6 @@ The following types of extensions are distinguished:
 
 ### TdmContainer
 - [**tdmContainer**](../../../tdmContainer) : Transport resource for TDM
-- [tdmContainerFd](../../../tdmContainerFd) : Potential TDM forwarding (PDH or SDH matrix)
-- [tdmContainerFc](../../../tdmContainerFc) : Actual TDM forwarding (Entry into switching matrix)
 
 ### VLAN
 - [**vlanInterface**](../../../vlanInterface) : VLAN interfaces (Port) according to IEEE 802.1Q

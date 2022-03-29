@@ -50,6 +50,7 @@ The following types of extensions are distinguished:
 - [wredProfile](../../../wredProfile) : WRED (Weighted Random Early Detection)
 
 ## Core
+- [backupAndRestore](../../../backupAndRestore) : Information model and RPCs for managing backup and restore on the device
 - [core](../../../core) : Core Information Model that consolidates all Interfaces, Profiles and Equipments
 - [ltpAugment](../../../ltpAugment) : Technology agnostic amendment to the LogicalTerminationPoint class
 - [firmware](../../../firmware) : Information model and RPCs for managing firmware on the device

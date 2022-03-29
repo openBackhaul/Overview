@@ -46,7 +46,7 @@ The following types of extensions are distinguished:
 - [l3vpnProfile](../../../l3vpnProfile) : Layer 3 Virtual Private Networks
 - [policingProfile](../../../policingProfile) : 
 - [qosProfile](../../../qosProfile) : Quality of Service based on 802.1p, MPLS Exp and IP DSCP
-- schedulerProfile
+- [schedulerProfile](../../../schedulerProfile) : Scheduler for sending frames
 - [wredProfile](../../../wredProfile) : WRED (Weighted Random Early Detection)
 
 ## Core

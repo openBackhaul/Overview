@@ -12,7 +12,7 @@ The following types of extensions are distinguished:
 * [**airInterface**](../../../airInterface) : Physical layer of the microwave radio interface
 
 ### EthernetContainer
-- [ethernetContainer](../../../ethernetContainer) : Transport resource for Ethernet
+- [**ethernetContainer**](../../../ethernetContainer) : Transport resource for Ethernet
 
 ### HybridMwStructure
 * [**hybridMwStructure**](../../../hybridMwStructure) : Structuring of a microwave radio interface into multiple TDM and a single Ethernet segment
@@ -22,7 +22,7 @@ The following types of extensions are distinguished:
 
 ### MAC
 - [**macInterface**](../../../macInterface) : Ethernet MAC interface according to IEEE 802.1
-- [macFd](../../../macFd) : Potential forwarding (MAC switch) according to IEEE 802.1
+- [**macFd**](../../../macFd) : Potential forwarding (MAC switch) according to IEEE 802.1
 
 ### PureEthernetStructure
 - [**pureEthernetStructure**](../../../pureEthernetStructure) : Structuring of a microwave radio interface into a single Ethernet segment

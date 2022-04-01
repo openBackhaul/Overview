@@ -18,7 +18,7 @@ The following types of extensions are distinguished:
 * [**hybridMwStructure**](../../../hybridMwStructure) : Structuring of a microwave radio interface into multiple TDM and a single Ethernet segment
 
 ### IP
-- [ipInterface](../../../ipInterface) : IPv4 interface according to IETF RFC 791
+- [**ipInterface**](../../../ipInterface) : IPv4 interface according to IETF RFC 791
 
 ### MAC
 - [**macInterface**](../../../macInterface) : Ethernet MAC interface according to IEEE 802.1
@@ -46,7 +46,7 @@ The following types of extensions are distinguished:
 - [**l3vpnProfile**](../../../l3vpnProfile) : Layer 3 Virtual Private Networks
 - [**policingProfile**](../../../policingProfile) : 
 - [qosProfile](../../../qosProfile) : Quality of Service based on 802.1p, MPLS Exp and IP DSCP
-- [schedulerProfile](../../../schedulerProfile) : Scheduler for sending frames
+- [**schedulerProfile**](../../../schedulerProfile) : Scheduler for sending frames
 - [**wredProfile**](../../../wredProfile) : WRED (Weighted Random Early Detection)
 
 ## Core

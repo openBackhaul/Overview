@@ -12,7 +12,7 @@ The following types of extensions are distinguished:
 * [**airInterface**](../../../airInterface) : Physical layer of the microwave radio interface
 
 ### EthernetContainer
-- [ethernetContainer](../../../ethernetContainer) : Transport resource for Ethernet
+- [**ethernetContainer**](../../../ethernetContainer) : Transport resource for Ethernet
 
 ### HybridMwStructure
 * [**hybridMwStructure**](../../../hybridMwStructure) : Structuring of a microwave radio interface into multiple TDM and a single Ethernet segment
@@ -45,7 +45,7 @@ The following types of extensions are distinguished:
 - [**coChannelProfile**](../../../coChannelProfile) : Groups of microwave radio interfaces, which are using the same frequency channel
 - [**l3vpnProfile**](../../../l3vpnProfile) : Layer 3 Virtual Private Networks
 - [**policingProfile**](../../../policingProfile) : 
-- [qosProfile](../../../qosProfile) : Quality of Service based on 802.1p, MPLS Exp and IP DSCP
+- [**qosProfile**](../../../qosProfile) : Quality of Service based on 802.1p, MPLS Exp and IP DSCP
 - [**schedulerProfile**](../../../schedulerProfile) : Scheduler for sending frames
 - [**wredProfile**](../../../wredProfile) : WRED (Weighted Random Early Detection)
 

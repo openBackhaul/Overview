@@ -76,3 +76,4 @@ The following types of extensions are distinguished:
 
 **Data Sanitation and Caching**
 - [MediatorInstanceManager](../../../MediatorInstanceManager) : Mediator management
+- [MicroWaveDeviceInventory](../../../MicroWaveDeviceInventory) : Cached device information

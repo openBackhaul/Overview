@@ -74,6 +74,9 @@ The following types of extensions are distinguished:
 - [ApplicationLayerTopology](../../../ApplicationLayerTopology) : Application network repository
 - [OperationKeyManagement](../../../OperationKeyManagement) : Management of API keys
 
-**Data Sanitation and Caching**
+**High Performance Network Interface**
 - [MediatorInstanceManager](../../../MediatorInstanceManager) : Mediator management
-- [MicroWaveDeviceInventory](../../../MicroWaveDeviceInventory) : Cached device information
+- [MicroWaveDeviceInventory](../../../MicroWaveDeviceInventory) : Caches device information
+- [Resolver](../../../Resolver) : Specifies generically formulated RESTCONF requests
+- [Accessport2LtpTranslator](../../../Accessport2LtpTranslator) : Mapping of x:akta Port Identifier on LTP UUID
+- [MacAddressTableRecorder](../../../MacAddressTableRecorder) : Caches MAC address table content

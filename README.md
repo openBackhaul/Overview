@@ -12,8 +12,10 @@ The following types of extensions are distinguished:
 * [**airInterface**](../../../airInterface) : Physical layer of the microwave radio interface
 
 ### EthernetContainer
-- [**ethernetContainer**](../../../ethernetContainer) : Transport resource for Ethernet
-- [**lldp**](../../../lldp) : Link Layer Discovery Protocol according to IEEE 802.1AB
+- [**ethernetContainer**](../../../ethernetContainer) : Interface for sending and receiving frames
+- [ethernetContainerFd](../../../ethernetContainerFd) : Potential of layer 1 forwarding of frames
+- [ethernetContainerFc](../../../ethernetContainerFc) : Actual layer 1 forwarding of frames
+- [lldp](../../../lldp) : Link Layer Discovery Protocol according to IEEE 802.1AB
 
 ### HybridMwStructure
 * [**hybridMwStructure**](../../../hybridMwStructure) : Structuring of a microwave radio interface into multiple TDM and a single Ethernet segment

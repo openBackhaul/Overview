@@ -13,6 +13,7 @@ The following types of extensions are distinguished:
 
 ### EthernetContainer
 - [**ethernetContainer**](../../../ethernetContainer) : Transport resource for Ethernet
+- [**lldp**](../../../lldp) : Link Layer Discovery Protocol according to IEEE 802.1AB
 
 ### HybridMwStructure
 * [**hybridMwStructure**](../../../hybridMwStructure) : Structuring of a microwave radio interface into multiple TDM and a single Ethernet segment
@@ -44,7 +45,7 @@ The following types of extensions are distinguished:
 ## Profiles
 - [**coChannelProfile**](../../../coChannelProfile) : Groups of microwave radio interfaces, which are using the same frequency channel
 - [**l3vpnProfile**](../../../l3vpnProfile) : Layer 3 Virtual Private Networks
-- [**policingProfile**](../../../policingProfile) : 
+- [**policingProfile**](../../../policingProfile) : Regulation of the flow by rates and burst sizes
 - [**qosProfile**](../../../qosProfile) : Quality of Service based on 802.1p, MPLS Exp and IP DSCP
 - [**schedulerProfile**](../../../schedulerProfile) : Scheduler for sending frames
 - [**wredProfile**](../../../wredProfile) : WRED (Weighted Random Early Detection)

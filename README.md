@@ -15,7 +15,6 @@ The following types of extensions are distinguished:
 - [**ethernetContainer**](../../../ethernetContainer) : Interface for sending and receiving frames
 - [ethernetContainerFd](../../../ethernetContainerFd) : Potential of layer 1 forwarding of frames
 - [ethernetContainerFc](../../../ethernetContainerFc) : Actual layer 1 forwarding of frames
-- [lldp](../../../lldp) : Link Layer Discovery Protocol according to IEEE 802.1AB
 
 ### HybridMwStructure
 * [**hybridMwStructure**](../../../hybridMwStructure) : Structuring of a microwave radio interface into multiple TDM and a single Ethernet segment
@@ -26,6 +25,7 @@ The following types of extensions are distinguished:
 ### MAC
 - [**macInterface**](../../../macInterface) : Ethernet MAC interface according to IEEE 802.1
 - [**macFd**](../../../macFd) : Potential forwarding (MAC switch) according to IEEE 802.1
+- [lldp](../../../lldp) : Link Layer Discovery Protocol according to IEEE 802.1AB
 
 ### PureEthernetStructure
 - [**pureEthernetStructure**](../../../pureEthernetStructure) : Structuring of a microwave radio interface into a single Ethernet segment
@@ -78,8 +78,20 @@ The following types of extensions are distinguished:
 - [OperationKeyManagement](../../../OperationKeyManagement) : Management of API keys
 
 **High Performance Network Interface**
-- [MediatorInstanceManager](../../../MediatorInstanceManager) : Mediator management
-- [MicroWaveDeviceInventory](../../../MicroWaveDeviceInventory) : Caches device information
-- [Resolver](../../../Resolver) : Specifies generically formulated RESTCONF requests
-- [Accessport2LtpTranslator](../../../Accessport2LtpTranslator) : Mapping of x:akta Port Identifier on LTP UUID
-- [MacAddressTableRecorder](../../../MacAddressTableRecorder) : Caches MAC address table content
+- [Accessport2LtpTranslator](../../../Accessport2LtpTranslator)
+- [Linkid2LtpTranslator](../../../Linkid2LtpTranslator)
+- [LinkIdIntoLtpWriter](../../../LinkIdIntoLtpWriter)
+- [MacAddressTableRecorder](../../../MacAddressTableRecorder)
+- [MicroWaveDeviceInventory](../../../MicroWaveDeviceInventory)
+- [Resolver](../../../Resolver)
+
+**Device Automation - Operation Support**
+- [AutomatedLinkAcceptanceProxy](../../../AutomatedLinkAcceptanceProxy)
+
+**Device Automation – Centralized Device Function**
+- [AirInterfacePowerSaver](../../../AirInterfacePowerSaver)
+
+**Network Automation – Self-initiated Routing**
+- [MediatorInstanceManager](../../../MediatorInstanceManager)
+- [MediatorManager](../../../MediatorManager)
+- [MountingOrchestrator](../../../MountingOrchestrator)

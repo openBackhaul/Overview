@@ -84,7 +84,7 @@ The following types of extensions are distinguished:
 - [LinkIdIntoLtpWriter](../../../LinkIdIntoLtpWriter)
 - [MacAddressTableRecorder](../../../MacAddressTableRecorder)
 - [MicroWaveDeviceInventory](../../../MicroWaveDeviceInventory)
-- [Resolver](../../../Resolver)
+- [NotificationProxy](../../../NotificationProxy)
 
 **Device Automation - Operation Support**
 - [AutomatedLinkAcceptanceProxy](../../../AutomatedLinkAcceptanceProxy)
@@ -92,7 +92,13 @@ The following types of extensions are distinguished:
 **Device Automation – Centralized Device Function**
 - [AirInterfacePowerSaver](../../../AirInterfacePowerSaver)
 
+**Network Analysis**
+- [MycomButler](../../../MycomButler)
+
 **Network Automation – Self-initiated Routing**
 - [MediatorInstanceManager](../../../MediatorInstanceManager)
 - [MediatorManager](../../../MediatorManager)
 - [MountingOrchestrator](../../../MountingOrchestrator)
+
+**Domain Interfaces**
+- [MultiDomainInventoryProxy](../../../MultiDomainInventoryProxy)

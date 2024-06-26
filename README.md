@@ -51,7 +51,7 @@ The following types of extensions are distinguished:
 - [**qosProfile**](../../../qosProfile) : Quality of Service based on 802.1p, MPLS Exp and IP DSCP
 - [**schedulerProfile**](../../../schedulerProfile) : Scheduler for sending frames
 - [**wredProfile**](../../../wredProfile) : WRED (Weighted Random Early Detection)
-
+- [**wredTemplateProfile**](../../../wredTemplateProfile) : Combinations of WRED, transport protocol and drop precedence  
 ## Core
 - [backupAndRestore](../../../backupAndRestore) : Information model and RPCs for managing backup and restore on the device
 - [core](../../../core) : Core Information Model that consolidates all Interfaces, Profiles and Equipments

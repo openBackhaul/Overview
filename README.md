@@ -62,8 +62,7 @@ The following types of extensions are distinguished:
 - [notifications](../../../notifications): Generic notifications
 
 ## Controller
-- [O1-Controller](../../../o1controller) : OpenDaylight based SDN Controller, which is used in the ONAP project
-- [SDN-R](../../../o1controller) : OpenDaylight based SDN Controller, which is used in the ONAP project
+- [Controller](../../../Controller) : OpenDaylight based SDN Controller as it is used at Telefonica Germany
 
 ## Applications
 - [ApplicationPattern](../../../ApplicationPattern) : Basic functions of REST applications

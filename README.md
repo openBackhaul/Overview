@@ -62,7 +62,7 @@ The following types of extensions are distinguished:
 - [notifications](../../../notifications): Generic notifications
 
 ## Controller
-- [Controller](../../../Controller) : OpenDaylight based SDN Controller as it is used at Telefonica Germany
+- [MwDomainController](../../../MwDomainController) : OpenDaylight based SDN Controller as it is used at Telefonica Germany
 
 ## Applications
 - [ApplicationPattern](../../../ApplicationPattern) : Basic functions of REST applications

@@ -85,19 +85,13 @@ The following types of extensions are distinguished:
 - [MicroWaveDeviceInventory](../../../MicroWaveDeviceInventory)
 - [NotificationProxy](../../../NotificationProxy)
 
-**Device Automation - Operation Support**
-- [AutomatedLinkAcceptanceProxy](../../../AutomatedLinkAcceptanceProxy)
+**Domain Interfaces**
+- [AccessPlanningToolProxy](../../../AccessPlanningToolProxy)
+- [MultiDomainInventoryProxy](../../../MultiDomainInventoryProxy)
+- [NetExplorerProxy](../../../NetExplorerProxy)
+- [NetworkDataLakeProxy](../../../NetworkDataLakeProxy)
 
-**Device Automation – Centralized Device Function**
-- [AirInterfacePowerSaver](../../../AirInterfacePowerSaver)
-
-**Network Analysis**
-- [MycomButler](../../../MycomButler)
-
-**Network Automation – Self-initiated Routing**
+**Network Automation**
 - [MediatorInstanceManager](../../../MediatorInstanceManager)
 - [MediatorManager](../../../MediatorManager)
 - [MountingOrchestrator](../../../MountingOrchestrator)
-
-**Domain Interfaces**
-- [MultiDomainInventoryProxy](../../../MultiDomainInventoryProxy)

@@ -46,7 +46,8 @@ The following types of extensions are distinguished:
 
 ## Profiles
 - [**coChannelProfile**](../../../coChannelProfile) : Groups of microwave radio interfaces, which are using the same frequency channel
-- [**l3vpnProfile**](../../../l3vpnProfile) : Layer 3 Virtual Private Networks
+- [**l3vpnProfile**](../../../l3vpnProfile) : Layer 3 Virtual Private Networks  
+- [**layer1AggregationProfile**](../../..//layer1AggregationProfile) : Aggregation on the physical layer (Air and Wire)  
 - [**policingProfile**](../../../policingProfile) : Regulation of the flow by rates and burst sizes
 - [**qosProfile**](../../../qosProfile) : Quality of Service based on 802.1p, MPLS Exp and IP DSCP
 - [**schedulerProfile**](../../../schedulerProfile) : Scheduler for sending frames
